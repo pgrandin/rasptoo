@@ -1,0 +1,2 @@
+# rasptoo
+Gentoo for raspberry
