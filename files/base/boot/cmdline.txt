@@ -1,0 +1,1 @@
+consoleblank=0 console=ttyAMA0,115200 kgdboc=ttyAMA0,115200 console=tty1 root=/dev/mmcblk0p2 rootdelay=2 elevator=noop

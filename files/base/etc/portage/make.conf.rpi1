@@ -1,0 +1,19 @@
+# These settings were set by the catalyst build script that automatically
+# built this stage.
+# Please consult /usr/share/portage/config/make.conf.example for a more
+# detailed example.
+CFLAGS="-O2 -pipe -march=armv6j -mfpu=vfp -mfloat-abi=hard"
+# WARNING: Changing your CHOST is not something that should be done lightly.
+# Please consult https://wiki.gentoo.org/wiki/Changing_the_CHOST_variable before changing.
+CHOST="armv6j-hardfloat-linux-gnueabi"
+PORTDIR="/usr/portage"
+DISTDIR="/var/tmp/portage/distfiles"
+PKGDIR="/var/tmp/portage/armv6j-hardfloat-packages"
+PORTAGE_BINHOST="http://packages.kazer.org/armv6j-hardfloat-packages/"
+
+# This sets the language of build output to English.
+# Please keep this setting intact when reporting bugs.
+LC_MESSAGES=C
+MAKEOPTS="-j33"
+FEATURES="buildpkg getbinpkg"
+VIDEO_CARDS="fbdev"

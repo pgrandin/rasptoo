@@ -1,0 +1,6 @@
+=www-client/midori-0.5.11 ~arm
+=net-libs/webkit-gtk-2.10.9 ~arm
+media-libs/gst-plugins-bad ~arm
+=app-misc/geoclue-2.4.3 ~arm
+=media-libs/gstreamer-1.6.3 ~arm
+=media-libs/gst-plugins-base-1.6.3 ~arm

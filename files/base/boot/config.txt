@@ -1,0 +1,6 @@
+disable_overscan=1
+[pi1]
+kernel=gentoo-rpi1.img
+device_tree=
+[pi2]
+kernel=kernel-rpi2.img

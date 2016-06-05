@@ -1,0 +1,2 @@
+>=x11-libs/cairo-1.14.2 xcb
+>=media-gfx/imagemagick-6.9.0.3 png

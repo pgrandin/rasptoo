@@ -1,0 +1,4 @@
+>=app-crypt/gcr-3.16.0 gtk
+x11-libs/gtk+ X
+>=x11-libs/cairo-1.14.2 opengl
+media-libs/gst-plugins-bad opengl X

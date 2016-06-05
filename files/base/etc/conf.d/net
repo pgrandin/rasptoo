@@ -1,0 +1,2 @@
+# for 7392:7811 Edimax Technology Co., Ltd EW-7811Un 802.11n Wireless Adapter
+wpa_supplicant_wlan0="-Dwext"

@@ -1,0 +1,4 @@
+>=dev-libs/libxml2-2.9.2-r4 icu
+>=sys-libs/zlib-1.2.8-r1 minizip
+>=media-libs/harfbuzz-0.9.41 icu
+>=x11-libs/cairo-1.14.2 X
