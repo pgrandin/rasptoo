@@ -1,4 +1,4 @@
-fdisk /dev/mmcblk0 < EOF
+fdisk /dev/mmcblk0 << EOF
 d
 2
 n
