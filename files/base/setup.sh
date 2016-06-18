@@ -3,7 +3,6 @@
 eselect python set 1
 #chmod 777 /dev/null
 export MAKEOPTS="-j32"
-echo "nameserver 8.8.8.8" > /etc/resolv.conf
 USE="-perl" emerge -qu vim dhcpcd usbutils unzip lsof eix dev-vcs/git tmux wireless-tools wpa_supplicant ntp sys-fs/multipath-tools
 
 rc-update add sshd default
