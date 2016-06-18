@@ -7,9 +7,10 @@ CFLAGS="-O2 -pipe -march=armv7-a -mfpu=vfpv3-d16 -mfloat-abi=hard"
 # Please consult https://wiki.gentoo.org/wiki/Changing_the_CHOST_variable before changing.
 CHOST="armv7a-hardfloat-linux-gnueabi"
 PORTDIR="/usr/portage"
-DISTDIR="/usr/portage/distfiles"
-PKGDIR="/usr/portage/armv7a-hardfloat-packages"
-PORTAGE_BINHOST="http://packages.kazer.org/armv7a-hardfloat-packages"
+DISTDIR="/var/tmp/portage/distfiles"
+PKGDIR="/var/tmp/portage/armv7a-hardfloat-packages"
+PORTAGE_BINHOST="http://packages.kazer.org/armv7a-hardfloat-packages/"
+
 
 # This sets the language of build output to English.
 # Please keep this setting intact when reporting bugs.
